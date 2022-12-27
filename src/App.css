@@ -36,8 +36,8 @@ body {
 	background-color: #fff;
 	height: 60vh;
 	padding: 20px;
-	overflow: auto;
-	overflow-y: hidden;
+	overflow: scroll;
+	overflow-x: hidden;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
